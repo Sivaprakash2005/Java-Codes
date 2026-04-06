@@ -1,0 +1,139 @@
+variables.
+
+ther has two types of variables local and global. 
+
+
+Data Types.
+
+1.swapping the numbers using third  variable.
+2.create the variable in global and print in main fun.
+
+
+operators.
+
+1.(arithmatic op)sum of the given values.
+2.only mcq's.
+3.swapping using (ap).
+
+
+conditon flow statements.
+
+branching.
+
+1.calculator.
+2.comparison of both vriables.
+3.date valied.
+4.leap year are not.
+5.old age 
+6.grade.
+
+looping.
+
+1.amstrong number.//153
+2.prime number//2
+3.discarium number //175
+4.strong number//145
+5.magic number//1729
+6.amicable number//220 282
+7.perfect number//6
+8.abundant number//16<12
+9.happy number are not a happy number.//49
+10.harsath number//21 ->2+1=3 21/3.=reminder becomes 0   ex:153 4991
+11.spy number
+12.automorfic number
+13.reverse the number
+14.count the number
+15.sum of the number
+16.palindrome number.
+17.factorial  number.
+18.factors  of given number.
+19.given number is ood are even.
+20.fibonacci series.
+21.print the all whole number from the given number.
+22.MCQ's.
+23.patterns.
+
+
+
+array
+
+1d array.
+
+1.sum of  the array.
+2.print the even number and odd number.
+3.sum the even number and odd number .
+4.sum even index and odd index. with count
+5.search number with count.
+6.remove duplicate number.
+7.count the dupilicate.
+8.add 0 in the even index.
+9.largest number
+10.second largest.
+11.merge the both array.
+12.merge the both array and print in descending order.
+13.asscending and descending order.
+14.mixed sorting.
+15.unique number.
+16.insertion in postion.
+17.reverse the array.
+18.find the frequence of the given array.
+19.print the paried number.
+20.zero on front .
+
+2D Array.
+
+1.sum of the given array.
+2.print reverse the array.
+3.print even numbers and odd number in seperate the arrays.
+
+
+3D Array
+explain.
+
+Strings.
+
+1.Find the length of the string.
+2.Reverse the string.
+3.Count the repeted string.
+4.String search.
+5.Pair of  the string.
+6.Palindrom in string.
+7.Pair count on string.
+8.Remove the repeted character.//Print the repeating character.
+9.String change upper  to lower case.
+10.String comparison.
+11.Copy one string to another.
+12.Print the  strings aschii value.
+13.Do the operations in string.//"3-2"=1.
+14.Vowles count
+15.panagram checking.//all alphabets in one string.
+16.words count //computer science engineering =3
+17.string starting letter should be in capital letter.
+18.alternate characters.//dinesh =ieh.
+19.print the next character from the given string.
+
+input:
+acrskp
+
+output:
+bdstlq
+
+program.
+#include<stdio.h>
+int main()
+{
+  int n=7;
+  char str[n];
+  scanf("%s",str);
+  int k=0;
+  for(int i=0;i<n-1;i++)
+  {
+    k=+str[i];
+    printf("%c",k+1);
+  }
+}
+
+
+20.reverse the full string 
+
+
